@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data and trained models are not part of the repository
+Datasets/*.csv
+SavedModels/*
+!SavedModels/.gitkeep
